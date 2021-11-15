@@ -8,6 +8,7 @@ public class git2 {
 		System.out.println("welcome1");
 		System.out.println("welcome2");
 		System.out.println("welcome3");
+		System.out.println("developer");
 
 	}
 
